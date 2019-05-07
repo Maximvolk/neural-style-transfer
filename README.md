@@ -7,12 +7,18 @@ Since Tensorflow doesn’t have ready L-BFGS optimisation (which is recommended 
 3. Epsilon = 1e-1.
 
 ### Example
-<table><tr><td>My cat
-![Initial image](/content/cat.jpg)</td><td>
+<table><tr>
+    <td>My cat
+<img src='/content/cat.jpg'>
+    </td>
+    <td>
 Combined with E.Munch 'Scream'
-![Style image](/style/scream.jpg)</td><td>
+<img src='/style/scream.jpg'>
+    </td>
+    <td>
 Gives
-![Result](/output/cat+scream.png)</td>
+<img src='/output/cat+scream.png'>
+    </td>
 </tr></table>
 
 ### Crucial notes:
