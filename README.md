@@ -33,6 +33,3 @@ All code is in the Jupyter notebook.
 `content` - content images<br>
 `style` - style images<br>
 `output` - results
-
-
-P.S. My computer is pretty old so Tensorflow works as fast as a drunk turtle. That is why optimisation was done via Google Colaboratory.
